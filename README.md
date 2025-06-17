@@ -114,7 +114,7 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to programming](coursepages/intro-programming/README.md)
 - CS50P: Introduction to Programming with Python
-- Python for Everybody
+- Python for Everybody ✅
 
 [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 
