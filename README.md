@@ -76,21 +76,37 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ## Curriculum
 
-- [Introduction to Data Science](#introduction-to-data-science)
-- [Introduction to Computer Science](#introduction-to-computer-science)
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Databases](#databases)
-- [Single Variable Calculus](#single-variable-calculus)
-- [Linear Algebra](#linear-algebra)
-- [Multivariable Calculus](#multivariable-calculus)
-- [Statistics & Probability](#statistics--probability)
-- [Data Science Tools & Methods](#data-science-tools--methods)
-- [Machine Learning/Data Mining](#machine-learningdata-mining)
-- [Final project](#final-project)
+- [Contents](#contents)
+- [About](#about)
+- [Curricular Guideline](#curricular-guideline)
+- [How to use this guide](#how-to-use-this-guide)
+  - [Duration](#duration)
+  - [Order of the classes](#order-of-the-classes)
+  - [Track your progress](#track-your-progress)
+  - [Which programming languages should I use?](#which-programming-languages-should-i-use)
+  - [Content Policy](#content-policy)
+- [Community](#community)
+- [Prerequisites](#prerequisites)
+- [Curriculum](#curriculum)
+  - [Introduction to Data Science](#introduction-to-data-science)
+  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Data Structures and Algorithms](#data-structures-and-algorithms)
+  - [Databases](#databases)
+  - [Single Variable Calculus](#single-variable-calculus)
+  - [Linear Algebra](#linear-algebra)
+  - [Multivariable Calculus](#multivariable-calculus)
+  - [Statistics \& Probability](#statistics--probability)
+  - [Data Science Tools \& Methods](#data-science-tools--methods)
+  - [Machine Learning/Data Mining](#machine-learningdata-mining)
+  - [Final project](#final-project)
+  - [Congratulations](#congratulations)
+- [How to contribute](#how-to-contribute)
+- [Code of Conduct](#code-of-conduct)
+- [Team](#team)
 
 ### Introduction to Data Science
 
-[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+[What is Data Science](https://www.coursera.org/learn/what-is-datascience) ✅
 
 ### Introduction to Computer Science
 
