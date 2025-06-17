@@ -88,7 +88,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 - [Community](#community)
 - [Prerequisites](#prerequisites)
 - [Curriculum](#curriculum)
-  - [Introduction to Data Science](#introduction-to-data-science)
+  - [Introduction to Data Science ✅](#introduction-to-data-science-)
   - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
   - [Databases](#databases)
@@ -104,7 +104,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 - [Code of Conduct](#code-of-conduct)
 - [Team](#team)
 
-### Introduction to Data Science
+### Introduction to Data Science ✅
 
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience) ✅
 
